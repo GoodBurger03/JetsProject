@@ -1,4 +1,4 @@
-## Hangar 'R' Grunts
+#### Hangar 'R' Grunts
 
 ## Description
 
@@ -47,4 +47,4 @@
 
 # Classes can become confusing, easily if you do not keep UML up to date
 
-# Dont try to become too ambitious. I tried to incorporate a Display image class and while i got it to run it causes an error when i include in the program. That is one of my personal stretch goals going forward. 
+# Dont try to become too ambitious. I tried to incorporate a Display image class and while i got it to run it causes an error when i include in the program. That is one of my personal stretch goals going forward.
