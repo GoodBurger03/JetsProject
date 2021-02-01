@@ -1,0 +1,8 @@
+CargoPlane,C-130 Hercules,368,2359,30000000,false
+CargoPlane,Douglas DC-8,556,4000, 5400000,false
+CargoPlane,Cessna Caravan,214,1232,2320000,false
+FighterJet,B52 Stratofortress, 1730,1841,152000000,false
+FighterJet,General Dynamics F-16 Fighting Falcon,1320,2620,18900000,false
+FighterJet,Boeing B1 Lancer, 900,5000,38000000,false
+FighterJet,BoeingF15,1875,2400, 78000000,false
+CargoPlane,C-5 Galaxy,518,6300,100000000,false
